@@ -14,3 +14,7 @@ python project2_abc_analysis.py
 ## Tech
 - Python 3.12
 - pandas
+
+## Dashboard
+Interactive visualization built in Tableau Public:
+[SCM Sales Dashboard](https://public.tableau.com/app/profile/anv.nc/viz/SCMInventorySalesDashboard/Dashboard1)
